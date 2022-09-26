@@ -11,8 +11,8 @@ I think I could almost incorporate my initial idea of the webpage that I submitt
 My creative addition to the website:
 1) I created and added a personal logo with Canva in the title bar of the webpage.
 2) For the header or website name, I made a logo in Canva which represents the name and the theme of the site.
-3) I adjusted all the colors of the texts and backgrounds for creating the unique aesthetic for the site.
-4) I made a navigation bar or menu bar on the top and added buttons like "Home" which is the main page shown, "Newsletter" which takes you to a page where    you can subscribe to the site, "Contact Us" which takes you to the email address provided and open your email site prompt, "Leave a Review" where you      can leave comments/suggestions for the owner of the page.
+3) I adjusted all the colors of the texts and backgrounds for creating the unique aesthetic for the site. Also all the buttons change color when hovering      over them.
+4) I made a navigation bar or menu bar on the top and added buttons like "Home" which is the main page shown, "Newsletter" which takes you to a page where    you can subscribe to the site, "Contact Us" which takes you to the email address provided and open your email site prompt, "Leave a Review" where you      can leave comments/suggestions for the owner of the page. I made use of several different html methods like form, dropdown menu, button etc. in those      pages.
 5) I made a search bar alongside the menu bar where one can search for similar items.
 6) I made an automatic slideshow with the photos of the campus that I had taken myself.
 7) After hosting the video I had included a comment bar where the viewer can leave a comment for the site/video and it'll show up on the page.
